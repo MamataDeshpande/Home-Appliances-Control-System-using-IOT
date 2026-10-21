@@ -1,0 +1,9 @@
+*.bin
+*.elf
+*.hex
+*.o
+*.log
+.DS_Store
+credentials.h
+secrets.h
+.env
