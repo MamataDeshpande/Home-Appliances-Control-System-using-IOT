@@ -1,10 +1,5 @@
 # Home Appliances Control System using IOT
 
-**Bachelor of Technology, Electronics and Telecommunication**  
-**Government College of Engineering, Karad**  
-**Academic Year:** 2018–2019  
-**Project period:** 15 May 2018 – 22 May 2018
-
 ## Project Overview
 
 The Home Appliances Control System using IOT explores remote and automatic operation of household appliances using NodeMCU, sensors and mobile/web-based services. The work in the report covers four applications:
