@@ -20,3 +20,4 @@ The project includes Arduino code for these two sections:
 
 The Blynk token and Wi-Fi network credentials in the printed water-level sketch have been replaced with placeholders. Other control steps and the original decision condition remain as documented. The sketches use older NodeMCU/Blynk conventions and **have not been retested with current libraries or hardware**.
 
+<img width="916" height="495" alt="image" src="https://github.com/user-attachments/assets/66cb0d18-eda4-47ce-aa26-9361ecf889eb" />
